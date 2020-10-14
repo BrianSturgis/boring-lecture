@@ -1,0 +1,20 @@
+h2.intro{
+  color: green;
+  font-weight: bold;
+
+}
+
+.intro{
+  color: blueviolet;
+  font-style: italic;
+
+}
+
+.intro{
+  background-color: pink;
+  
+}
+
+img {
+  float: left;
+}
